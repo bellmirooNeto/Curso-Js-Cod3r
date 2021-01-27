@@ -1,0 +1,7 @@
+entender que na web o window é como se fosse o pai de todos
+já no node o module.exports é o pai de todos
+
+
+this no browser é o mesmo que o window
+
+já o this no node é o module.exports
